@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# [<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
+# [<img src="https://github.com/L2e0n/lzhang/logo.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
 
 这是张良的个人主页。
 
