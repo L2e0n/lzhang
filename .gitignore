@@ -1,5 +1,5 @@
 # History files
-.Rhistory
+#.Rhistory
 .Rapp.history
 
 # Session Data files
@@ -37,3 +37,11 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+public
+static/figures
+blogdown
