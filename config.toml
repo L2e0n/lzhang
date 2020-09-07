@@ -30,13 +30,10 @@ math = true
     name = "Tags"
     url = "/tags/"
     weight = 3
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
 
 [params]
     description = "一个训练‘其神凝 ’的内景"
-    footer = "&copy; [Liang Zhang](https://lzhang.space) 2018 | [Github](https://github.com/l2e0n)"
+    footer = "&copy; [Liang Zhang](https://lzhang.space) 2018-2020 | [Github](https://github.com/l2e0n)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
