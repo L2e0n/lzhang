@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# [<img src="https://ibb.co/TMcX8ZL" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />]
+# [<img src="https://wx2.sbimg.cn/2020/09/07/9CFbN.md.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Logo" />]()
 
 这是张良的个人主页。
 
