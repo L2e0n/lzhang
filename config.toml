@@ -32,7 +32,7 @@ math = true
     weight = 3
 
 [params]
-    description = "一个训练‘其神凝’的内景"
+    description = "一个训练‘其神凝 ’的内景"
     footer = "&copy; [Liang Zhang](https://lzhang.space) 2018-2020 | [Weibo](https://weibo.com/edgeofworld)"
 
   highlightjsVersion = "9.12.0"
