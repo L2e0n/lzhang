@@ -33,7 +33,7 @@ math = true
 
 [params]
     description = "一个训练‘其神凝 ’的内景"
-    footer = "&copy; [Liang Zhang](https://lzhang.space) 2018-2020 | [Weibo](https://weibo.com/edgeofworld)"
+    footer = "&copy; [Liang Zhang](https://lzhang.space) 2018-2020 | [Weibo](https://weibo.com/edgeofworld) | [B站](https://space.bilibili.com/13756957)"
 
   highlightjsVersion = "9.12.0"
   highlightjsCDN = "//cdn.bootcss.com"
