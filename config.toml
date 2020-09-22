@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Liang's Blog"
 theme = "hugo-ivy"
-<img src="https://wx2.sbimg.cn/2020/09/22/G14fM.md.png" style="max-width:15%;min-width:40px;float:right;" alt="Logo" />
+<img src="https://wx2.sbimg.cn/2020/09/22/G1Dpw.md.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Logo" />
 enableEmoji = true
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 googleAnalytics = ""
