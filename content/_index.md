@@ -2,7 +2,6 @@
 title: Home
 ---
 
-<img src="https://wx2.sbimg.cn/2020/09/22/G1Dpw.md.jpg" style="max-width:15%;min-width:40px;float:right;" alt="Logo" />
 
 这是张良的个人主页。
 
