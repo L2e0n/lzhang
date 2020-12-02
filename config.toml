@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Liang's Blog"
+title = "沉默边缘"
 theme = "hugo-ivy"
 enableEmoji = true
 hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
